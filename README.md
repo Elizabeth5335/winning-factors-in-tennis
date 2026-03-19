@@ -30,7 +30,7 @@ Define which pre-match factors (rank, age, height, handedness) are associated wi
 
 Match outcomes are primarily driven by ranking-based features, while physical and demographic factors (age, height, hand) have limited and context-dependent impact.
 
-![Dashboard](Winning_Factors_in_Tennis.png)
+![Dashboard](Winning_Factors_in_Tennis_1.png)
 
 --- 
 
